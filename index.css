@@ -1,0 +1,63 @@
+.partibas {
+    width: 600px;
+    height: 180px;
+    border: black 3px solid;
+    align-items: center
+}
+
+.partihaut {
+    width: 600px;
+    height: 400px;
+    border: rgb(126, 125, 125) 3px solid;
+    background-image: url('../NouveauPokémon/images/pokémon.png');
+    
+   
+}
+
+.message{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(0, 158, 231);
+}
+.boutons{
+
+    width: 50%;
+    height: 100%;
+    background-color: rgb(129, 16, 16);
+}
+
+.haut{
+    width: 50%;
+    height: 100%;
+
+    
+}
+.bas{
+    width: 50%;
+    height: 100%;
+}
+
+.cotedroit{
+    width: 49%;
+    height: 100%;
+    
+   
+}
+
+.cotegauche{
+    width: 49%;
+    height: 100%;
+     
+        
+
+}
+
+.collonehaut{
+height: 200px;
+width: 600px;
+}
+
+.collonebas{
+    height: 200px;
+    width: 600px;
+}
